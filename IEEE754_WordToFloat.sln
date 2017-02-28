@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEEE754_WordToFloat", "WordToFloat\IEEE754_WordToFloat.csproj", "{CD18F55F-278C-4893-81B4-C37140481010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD18F55F-278C-4893-81B4-C37140481010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD18F55F-278C-4893-81B4-C37140481010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD18F55F-278C-4893-81B4-C37140481010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD18F55F-278C-4893-81B4-C37140481010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

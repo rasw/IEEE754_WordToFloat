@@ -1,0 +1,8 @@
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\IEEE754_WordToFloat\WordToFloat\bin\Debug\WordToFloat.exe.config
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\IEEE754_WordToFloat\WordToFloat\obj\Debug\WordToFloat.exe
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\IEEE754_WordToFloat\WordToFloat\obj\Debug\WordToFloat.pdb
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\IEEE754_WordToFloat\WordToFloat\bin\Debug\WordToFloat.exe
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\IEEE754_WordToFloat\WordToFloat\bin\Debug\WordToFloat.pdb
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\IEEE754_WordToFloat\WordToFloat\obj\Debug\WordToFloat.Form1.resources
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\IEEE754_WordToFloat\WordToFloat\obj\Debug\WordToFloat.Properties.Resources.resources
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\IEEE754_WordToFloat\WordToFloat\obj\Debug\IEEE754_WordToFloat.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\WordToFloat\WordToFloat\bin\Release\WordToFloat.exe.config
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\WordToFloat\WordToFloat\bin\Release\WordToFloat.exe
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\WordToFloat\WordToFloat\bin\Release\WordToFloat.pdb
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\WordToFloat\WordToFloat\obj\Release\WordToFloat.Form1.resources
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\WordToFloat\WordToFloat\obj\Release\WordToFloat.Properties.Resources.resources
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\WordToFloat\WordToFloat\obj\Release\WordToFloat.csproj.GenerateResource.Cache
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\WordToFloat\WordToFloat\obj\Release\WordToFloat.exe
+C:\Users\rwilson\OneDrive\AKVA\AkvaProjects\WordToFloat\WordToFloat\obj\Release\WordToFloat.pdb
